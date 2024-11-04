@@ -1,3 +1,5 @@
+//simulates cars, parking meters, and police officers.
+//if a car is overparked, it will recieve a ticket from a police officer with a fine 25 + 10*each extra hour
 #include <iostream>
 #include "parkedCar.hpp"
 #include "parkingMeter.hpp"
